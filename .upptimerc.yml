@@ -4,14 +4,12 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Mapper
+    url: https://bluebike-mapper.azurewebsites.net/
+  - name: Mapper/bluebike
+    url: https://bluebike-mapper.azurewebsites.net/bluebike.ttl
+  - name: Mapper/velo
+    url: https://bluebike-mapper.azurewebsites.net/
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
