@@ -1,34 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Mapper",
+    "url": "https://bluebike-mapper.azurewebsites.net/",
+    "slug": "mapper",
     "status": "up",
     "uptime": "100.00%",
-    "time": 19
+    "time": 983
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Mapper/bluebike",
+    "url": "https://bluebike-mapper.azurewebsites.net/bluebike.ttl",
+    "slug": "mapper-bluebike",
     "status": "up",
     "uptime": "100.00%",
-    "time": 75
+    "time": 194
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Mapper/velo",
+    "url": "https://bluebike-mapper.azurewebsites.net/",
+    "slug": "mapper-velo",
     "status": "up",
     "uptime": "100.00%",
-    "time": 179
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 0
+    "time": 173
   }
 ]
