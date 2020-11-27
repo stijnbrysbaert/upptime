@@ -4,23 +4,23 @@
     "url": "https://bluebike-mapper.azurewebsites.net/",
     "slug": "mapper",
     "status": "up",
-    "uptime": "97.54%",
-    "time": 9751
+    "uptime": "98.22%",
+    "time": 8512
   },
   {
     "name": "Mapper/bluebike",
     "url": "https://bluebike-mapper.azurewebsites.net/bluebike.ttl",
     "slug": "mapper-bluebike",
     "status": "up",
-    "uptime": "97.54%",
-    "time": 187
+    "uptime": "98.22%",
+    "time": 191
   },
   {
     "name": "Mapper/velo",
     "url": "https://bluebike-mapper.azurewebsites.net/",
     "slug": "mapper-velo",
     "status": "up",
-    "uptime": "97.54%",
-    "time": 187
+    "uptime": "98.22%",
+    "time": 190
   }
 ]
