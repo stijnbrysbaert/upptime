@@ -1,7 +1,7 @@
 url: https://bluebike-mapper.azurewebsites.net/  
-status: up
-code: 200
-responseTime: 29931
-lastUpdated: 2020-12-13T01:05:53.179Z
+status: down
+code: 403
+responseTime: 881
+lastUpdated: 2020-12-13T17:29:07.789Z
 startTime: Mon Nov 23 2020 09:28:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
