@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper",
     "status": "down",
-    "uptime": "60.23%",
+    "uptime": "60.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.54%",
+    "uptimeYear": "58.33%",
     "time": 1664,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1301,
+    "timeYear": 1304,
     "dailyMinutesDown": {
-      "2021-12-11": 31,
+      "2021-12-12": 34,
+      "2021-12-11": 1440,
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1440,
@@ -171,8 +172,7 @@
       "2020-12-16": 433,
       "2020-12-15": 304,
       "2020-12-14": 435,
-      "2020-12-13": 457,
-      "2020-12-12": 324
+      "2020-12-13": 457
     }
   },
   {
@@ -181,18 +181,19 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper-bluebike",
     "status": "down",
-    "uptime": "60.23%",
+    "uptime": "60.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.54%",
+    "uptimeYear": "58.33%",
     "time": 302,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2021-12-11": 31,
+      "2021-12-12": 34,
+      "2021-12-11": 1440,
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1440,
@@ -347,8 +348,7 @@
       "2020-12-16": 433,
       "2020-12-15": 304,
       "2020-12-14": 435,
-      "2020-12-13": 457,
-      "2020-12-12": 324
+      "2020-12-13": 457
     }
   },
   {
@@ -357,18 +357,19 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper-velo",
     "status": "down",
-    "uptime": "60.23%",
+    "uptime": "60.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.54%",
+    "uptimeYear": "58.33%",
     "time": 202,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2021-12-11": 31,
+      "2021-12-12": 34,
+      "2021-12-11": 1440,
       "2021-12-10": 1440,
       "2021-12-09": 1440,
       "2021-12-08": 1440,
@@ -523,8 +524,7 @@
       "2020-12-16": 433,
       "2020-12-15": 304,
       "2020-12-14": 435,
-      "2020-12-13": 457,
-      "2020-12-12": 324
+      "2020-12-13": 457
     }
   }
 ]
