@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper",
     "status": "down",
-    "uptime": "36.49%",
+    "uptime": "36.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 984,
+    "time": 982,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 838,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-08-17": 64,
+      "2022-08-18": 63,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -379,8 +380,7 @@
       "2021-08-22": 1440,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
-      "2021-08-19": 1440,
-      "2021-08-18": 1440
+      "2021-08-19": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper-bluebike",
     "status": "down",
-    "uptime": "36.49%",
+    "uptime": "36.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 244,
+    "time": 243,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 192,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-08-17": 64,
+      "2022-08-18": 63,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -763,8 +764,7 @@
       "2021-08-22": 1440,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
-      "2021-08-19": 1440,
-      "2021-08-18": 1440
+      "2021-08-19": 1440
     }
   },
   {
@@ -773,7 +773,7 @@
     "icon": "https://favicons.githubusercontent.com/bluebike-mapper.azurewebsites.net",
     "slug": "mapper-velo",
     "status": "down",
-    "uptime": "36.49%",
+    "uptime": "36.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -782,9 +782,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 192,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-08-17": 64,
+      "2022-08-18": 63,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1147,8 +1148,7 @@
       "2021-08-22": 1440,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
-      "2021-08-19": 1440,
-      "2021-08-18": 1440
+      "2021-08-19": 1440
     }
   }
 ]
