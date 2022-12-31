@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper",
     "status": "down",
-    "uptime": "30.06%",
+    "uptime": "30.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 837,
+    "time": 838,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 50,
+      "2022-12-31": 45,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -379,8 +380,7 @@
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
-      "2022-01-01": 1440,
-      "2021-12-31": 1440
+      "2022-01-01": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper-bluebike",
     "status": "down",
-    "uptime": "30.06%",
+    "uptime": "30.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 192,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 50,
+      "2022-12-31": 45,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -763,8 +764,7 @@
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
-      "2022-01-01": 1440,
-      "2021-12-31": 1440
+      "2022-01-01": 1440
     }
   },
   {
@@ -773,10 +773,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper-velo",
     "status": "down",
-    "uptime": "30.06%",
+    "uptime": "30.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 192,
     "timeDay": 0,
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 50,
+      "2022-12-31": 45,
+      "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
@@ -1147,8 +1148,7 @@
       "2022-01-04": 1440,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
-      "2022-01-01": 1440,
-      "2021-12-31": 1440
+      "2022-01-01": 1440
     }
   }
 ]
