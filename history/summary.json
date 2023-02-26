@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper",
     "status": "down",
-    "uptime": "27.98%",
+    "uptime": "27.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 898,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-25": 52,
+      "2023-02-26": 57,
+      "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
@@ -379,8 +380,7 @@
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
-      "2022-02-27": 1440,
-      "2022-02-26": 1440
+      "2022-02-27": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper-bluebike",
     "status": "down",
-    "uptime": "27.98%",
+    "uptime": "27.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 210,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-25": 53,
+      "2023-02-26": 57,
+      "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
@@ -763,8 +764,7 @@
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
-      "2022-02-27": 1440,
-      "2022-02-26": 1440
+      "2022-02-27": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bluebike-mapper.azurewebsites.net.ico",
     "slug": "mapper-velo",
     "status": "down",
-    "uptime": "27.98%",
+    "uptime": "27.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 210,
+    "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-25": 53,
+      "2023-02-26": 57,
+      "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
       "2023-02-22": 1440,
@@ -1147,8 +1148,7 @@
       "2022-03-02": 1440,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
-      "2022-02-27": 1440,
-      "2022-02-26": 1440
+      "2022-02-27": 1440
     }
   }
 ]
